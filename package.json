@@ -1,0 +1,84 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "homebridge-vsx1027",
+        "scope": null,
+        "escapedName": "homebridge-vsx1027",
+        "name": "homebridge-vsx1027",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/homebridge/.homebridge"
+    ]
+  ],
+  "_from": "homebridge-vsx1027@latest",
+  "_id": "homebridge-vsx1027@0.0.1",
+  "_inCache": true,
+  "_location": "/homebridge-vsx1027",
+  "_nodeVersion": "6.6.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/homebridge-vsx1027-0.0.1.tgz_1475438035500_0.0022670726757496595"
+  },
+  "_npmUser": {
+    "name": "adamgoldman",
+    "email": "adamgoldman416@yahoo.com"
+  },
+  "_npmVersion": "3.10.7",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "homebridge-vsx1027",
+    "scope": null,
+    "escapedName": "homebridge-vsx1027",
+    "name": "homebridge-vsx1027",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/homebridge-vsx1027/-/homebridge-vsx1027-0.0.1.tgz",
+  "_shasum": "1f2022ba231df62c93ce5c7f42acaa6238012197",
+  "_shrinkwrap": null,
+  "_spec": "homebridge-vsx1027",
+  "_where": "/home/homebridge/.homebridge",
+  "dependencies": {
+    "request": "^2.65.0"
+  },
+  "description": "VSX-1027 plugin for homebridge: https://github.com/adamgoldman/homebridge-vsx1027",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "1f2022ba231df62c93ce5c7f42acaa6238012197",
+    "tarball": "https://registry.npmjs.org/homebridge-vsx1027/-/homebridge-vsx1027-0.0.1.tgz"
+  },
+  "engines": {
+    "homebridge": ">=0.2.0",
+    "node": ">=0.12.0"
+  },
+  "gitHead": "db239f48126a12f7c7b87c035e4ad34e29e52eb9",
+  "keywords": [
+    "homebridge",
+    "homebridge-plugin",
+    "receiver",
+    "volume",
+    "pioneer",
+    "mute",
+    "siri"
+  ],
+  "license": "ISC",
+  "maintainers": [
+    {
+      "name": "adamgoldman",
+      "email": "adamgoldman416@yahoo.com"
+    }
+  ],
+  "name": "homebridge-vsx1027",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {},
+  "version": "0.0.1"
+}
