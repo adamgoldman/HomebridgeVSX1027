@@ -1,4 +1,4 @@
-# homebridge-vsx1027
+# HomebridgeVSX1027
 
 This ia a plugin for homebridge.
 It is a work in progress to implement a Pioneer AVR (VSX-1027) into HomeKit.
